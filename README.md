@@ -4,16 +4,10 @@
 
 ![粉丝群](https://ooo.0x0.ooo/2024/09/06/Ot351X.png)
 
-#MaintravPE1.0.1
+# ○ MaintravPE1.0.1
 
 V1.0.1 - 2025年11月1日 
 MaintravPE V1.0.1是MaintravPE的第2个正式版，更新内容如下：
-
-#MaintravPE1.0
-
-V1.0 - 2025年10月25日 
-MaintravPE首个正式版发布
-
 世界之窗浏览器替换为360极速浏览器单文件版
 
 迅雷替换为360极速浏览器单文件版
@@ -23,3 +17,10 @@ IQI替换为CGI
 移除anydesk、todesk
 
 新增PE写入器为12.0（基于玩酷之家U盘制作工具）
+
+
+# ○ MaintravPE1.0
+
+V1.0 - 2025年10月25日 
+MaintravPE首个正式版发布
+
